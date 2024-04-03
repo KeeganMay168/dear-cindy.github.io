@@ -50,6 +50,16 @@ body {
   width: 300px;
 }
 
+.image-3 { 
+  position: absolute;
+  top: 100%;
+  left: 10%;
+  transform: translate(-50%, -50%);
+}
+.image-3 {
+  width: 200px;
+}
+
 .btn {
   position: absolute;
   top: calc(100% - 5rem);

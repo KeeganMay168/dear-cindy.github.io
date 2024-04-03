@@ -20,7 +20,7 @@ body {
 .header-img {
   display: flex;
   width: 100%;
-  max-width: 700px;
+  max-width: 600px;
   margin-inline: auto;
   filter: drop-shadow(5px 5px 20px rgba(0, 0, 0, 0.2));
 }

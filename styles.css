@@ -38,8 +38,8 @@ body {
 .image-1,
 .image-2 {
   position: absolute;
-  top: 50%;
-  left: 50%;
+  top: calc(100% - 5rem);
+  left: calc(100% - 5rem);
   /*transform: translate(-50%, -50%);*/
 }
 

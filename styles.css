@@ -40,7 +40,7 @@ body {
   position: absolute;
   top: 50%;
   left: 90%;
-  transform: translate(-50%, -50%);
+  /*transform: translate(-50%, -50%);*/
 }
 
 .image-1 {

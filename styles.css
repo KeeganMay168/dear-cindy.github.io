@@ -39,7 +39,7 @@ body {
 .image-2 {
   position: absolute;
   top: calc(70% - 5rem);
-  left: calc(70% - 5rem);
+  left: calc(85% - 5rem);
   
   /*transform: translate(-50%, -50%);*/
 }

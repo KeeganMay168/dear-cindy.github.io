@@ -12,6 +12,7 @@ body {
   padding: 2rem;
   width: 100%;
   min-height: 100vh;
+  overflow: hidden;
   background-image: linear-gradient(to right bottom, #cffafe, #7df9ff);
   display: flex;
   flex-direction: column;

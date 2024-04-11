@@ -8,7 +8,7 @@ const btnNo = document.querySelector(".btn-no");
 const termsBox = document.querySelector(".terms-box");
 // const termsText = document.querySelector(".terms-text");
 const btnAcc = document.querySelector(".acc-btn");
-// const btnDec = document.querySelector(".dec-btn");
+const btnDec = document.querySelector(".dec-btn");
 
 function getRandomNumber(min, max) {
   // Calculate the random number between min and max (inclusive)

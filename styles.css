@@ -155,7 +155,7 @@ body {
     justify-content: space-between;
     padding-bottom: 50px;
 }
-.btn{
+.btn-2{
     height: 50px;
     width: calc(50% - 6px);
     border: 0;
@@ -166,13 +166,13 @@ body {
     transition: .3s linear;
     cursor: pointer;
 }
-.red-btn{
+.acc-btn{
     background-color: rgb(245, 68, 68);
 }
-.gray-btn{
+.dec-btn{
     background-color: #282828;
 }
-.btn:hover{
+.btn-2:hover{
     opacity: .6;
 }
 }

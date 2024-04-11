@@ -21,7 +21,7 @@ body {
 .header-img {
   position: absolute;
   top: calc(0% - 100px);
-  left: calc(0% - 300px);
+  left: calc(50% - 300px);
   display: flex;
   width: 100%;
   max-width: 600px;

@@ -43,27 +43,30 @@ body {
 .image-2 {
   position: absolute;
   top: calc(50% - 200px);
-  left: calc(85% - 200px);
+  left: calc(95% - 200px);
   
   /*transform: translate(-50%, -50%);*/
 }
 
 .image-1 {
   width: 400px;
+  height: 400px;
 }
 
 .image-2 {
   width: 400px;
+  height: 400px;
 }
 
 .image-3 { 
   position: absolute;
   top: calc(50% - 200px);
-  left: calc(15% - 200px);
+  left: calc(5% - 200px);
   /* transform: translate(-50%, -50%);*/
 }
 .image-3 {
   width: 400px;
+  height: 400px;
 } 
 .image-4 { 
   position: absolute;

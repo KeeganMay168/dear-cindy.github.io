@@ -21,7 +21,7 @@ body {
 .header-img {
   position: absolute;
   top: calc(0% - 100px);
-  left: calc(50%);
+  left: calc(50% - 300px);
   display: flex;
   width: 600px;
   /*width: 100%;
@@ -43,7 +43,7 @@ body {
 .image-2 {
   position: absolute;
   top: calc(50% - 200px);
-  left: calc(75% - 200px);
+  left: calc(85% - 200px);
   
   /*transform: translate(-50%, -50%);*/
 }
@@ -58,8 +58,8 @@ body {
 
 .image-3 { 
   position: absolute;
-  top: calc(25% - 200px);
-  left: calc(0% - 200px);
+  top: calc(50% - 200px);
+  left: calc(15% - 200px);
   /* transform: translate(-50%, -50%);*/
 }
 .image-3 {

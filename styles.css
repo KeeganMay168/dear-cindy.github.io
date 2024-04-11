@@ -58,12 +58,12 @@ body {
 
 .image-3 { 
   position: absolute;
-  top: calc(20% - 0rem);
-  left: 0%;
+  top: calc(25% - 200px);
+  left: calc(0% - 200px);
   /* transform: translate(-50%, -50%);*/
 }
 .image-3 {
-  width: 300px;
+  width: 400px;
 } 
 .image-4 { 
   position: absolute;

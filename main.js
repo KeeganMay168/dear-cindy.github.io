@@ -6,7 +6,7 @@ const imageFour = document.querySelector(".image-4");
 const btnYes = document.querySelector(".btn-yes");
 const btnNo = document.querySelector(".btn-no");
 const termsBox = document.querySelector(".terms-box");
-// const termsText = document.querySelector(".terms-text");
+const termsText = document.querySelector(".terms-text");
 const btnAcc = document.querySelector(".acc-btn");
 const btnDec = document.querySelector(".dec-btn");
 
@@ -45,5 +45,6 @@ btnYes.addEventListener("click", (e) => {
   imageTwo.classList.remove("hide");
   imageThree.classList.remove("hide");
   imageFour.classList.remove("hide");
-  termsBox.classLsit.remove("hide");
+  termsBox.classList.remove("hide");
+  termsText.classList.remove("hide");
 });
